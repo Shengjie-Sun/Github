@@ -48,13 +48,13 @@
 
 #### 路径问题
 
-62-Medium-Unique Paths
+LeetCode 62-Medium-Unique Paths
 
 - 状态定义：【二维目标的二维度稠密表示】
 
   $states(i, j)$ 表示到第$i$行第$j$列的路径有几条。
 
-64-Medium-Minimum Path Sum
+LeetCode 64-Medium-Minimum Path Sum
 
 - 状态定义：【二维目标的二维度稠密表示】
 
@@ -76,7 +76,13 @@
 
   `连续决策`问题。状态与递归关系式的思考过程为当前的状态是如何得到的，分情况讨论，`分而治之`。写代码的时候注意递归基的定义，以及index越界的处理。
 
-494-Medium-Target Sum-[DP DFS]
+LeetCode 416-Medium-Partition Equal Subset Sum
+
+- 思路总结：
+
+  0-1 Knapsack的直接变体，若存在可以装满背包（所有数和的一半）的array的子集，则存在这样的partition。
+
+LeetCode 494-Medium-Target Sum
 
 - 状态定义：【一维目标的二维度稀疏表示】
 
@@ -86,21 +92,15 @@
 
   `连续决策`问题。是0-1 Knapsack的直接变体。这里由于$s$可以为负，导致若使用状态矩阵存贮状态会变得复杂且冗余，考虑到状态的稀疏性，可改为`defaultdict`来存储状态。
 
-416-Medium-Partition Equal Subset Sum
+LeetCode 1049-Medium-Last Stone Weight II
 
 - 思路总结：
 
-  0-1 Knapsack的变体，若存在可以装满背包（所有数和的一半）的array的子集，则存在这样的partition。
-
-1049-Medium-Last Stone Weight II
-
-- 思路总结：
-
-  0-1 Knapsack的间接变体，LeetCode 494的现实应用，撞的石头为减去自身重量（-）， 被撞的石头为加上自身重要（+）。原来的背包问题中物体是可选可不选，这题的物体是加上或者是减去。
+  0-1 Knapsack的间接变体，LeetCode 494的现实应用，撞的石头为减去自身重量（-）， 被撞的石头为加上自身重要（+）。原来的背包问题中物体是可选可不选，这题的物体是加上或者是减去。相比LeetCode 494，这里只关心某个重量是否存在，而不关心出现次数。
 
 #### 字符串问题
 
-1143-Medium-Longest Common Subsequence
+LeetCode 1143-Medium-Longest Common Subsequence
 
 - 状态定义：
 
@@ -115,7 +115,7 @@
   `序列比对`问题。状态与递归关系式的思考过程为思考两个序列的最后一个元素的处理，处理完之后就不再考虑该元素，`剪而治之`， 同时对问题`分而治之`。写代码的时候注意递归基的定义。
 
 
-647-Medium-Palindromic Substrings
+LeetCode 647-Medium-Palindromic Substrings
 
 - 状态定义：【一维目标的二维度稠密表示】
 
