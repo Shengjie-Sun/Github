@@ -1,55 +1,52 @@
 - October 20, 2019
 
-  62-Medium-Unique Paths
+  algorithms-62-Medium-Unique Paths
 
-  64-Medium-Minimum Path Sum
+  algorithms-64-Medium-Minimum Path Sum
 
-  494-Medium-Target Sum
+  algorithms-494-Medium-Target Sum
 
-  647-Medium-Palindromic Substrings
+  algorithms-647-Medium-Palindromic Substrings
 
 - December 23, 2019
 
-  167-Easy-Two Sum II-[TP BS Array]
+  algorithms-167-Easy-Two Sum II-[TP BS Array]
   
 - February 6, 2020
 
-  176-Easy-Second Highest Salary
+  database-176-Easy-Second Highest Salary
 
-  175-Easy-Combine Two Tables
+  database-175-Easy-Combine Two Tables
 
-  177-Medium-Nth Highest Salary
+  database-177-Medium-Nth Highest Salary
 
-  178-Medium-Rank Scores
+  database-178-Medium-Rank Scores
 
-  262-Excel-Trips and Users-[CASE]
+  database-262-Easy-Trips and Users-[CASE]
 
-  184-Medium-Department Highest Salary-[IN]
+  database-184-Medium-Department Highest Salary-[IN]
 
-  181-Easy-Employees Earning More Than Their Managers
+  database-181-Easy-Employees Earning More Than Their Managers
 
   **185-Hard-Department Top Three Salaries**
 
-  180-Medium-
+- February 11, 2020
 
-  601-Hard-
+  algorithms-11-Medium-Container With Most Water-[Array TP]
 
-  1179-Easy-
+  algorithms-31-Medium-Next Permutation-[Array]
 
-  1212
+  algorithms-17-Medium-Letter Combinations of a Phone Number-[Backtracking, Array]
 
-  608
+  algorithms-609-Medium-Find Duplicate File in System-[Hash String]
 
-  626
+  algorithms-79-Medium-Word Search-[Backtracking, Array]
 
-  183
+  database-601-Hard-Human Traffic of Stadium    
 
-  595
+  database-1179-Easy-Reformat Department Table-[CASE]    
 
-  627
+  database-1212-Medium-Team Scores in Football Tournamen-[CASE JOIN]
 
-  1069
+  database-608-Medium-Tree Node-[CASE]
 
-  610
-
-  1241
