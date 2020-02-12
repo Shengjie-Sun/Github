@@ -1,5 +1,5 @@
-class Solution:
-    def findCircleNum_dfs_floodfill(self, M):
+class Solution1:
+    def findCircleNum(self, M):
         if not M: return 0
         
         n, m = len(M), len(M[0])
@@ -13,9 +13,10 @@ class Solution:
                 return 1
             return 0
         return sum(dfs(i, j) for i in range(n) for j in range(m) if j>=i)
-    
+
+class Solution2:
     # pay more attention to the symmetric 
-    def findCircleNum_dfs_lines(self, M):
+    def findCircleNum(self, M):
         if not M: return 0
         
         N = len(M); seen = set()
@@ -34,5 +35,5 @@ if __name__ == "__main__":
     # Test Case
     M = [[1,1,0],[1,1,0],[0,0,1]]
 
-    sol = Solution()
-    print(sol.findCircleNum_dfs_lines(M))
+    sol = Solution1()
+    print(sol.findCircleNum(M))

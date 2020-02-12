@@ -1,9 +1,9 @@
 di = [0, 0, -1, 1]
 dj = [1, -1, 0, 0]
 
-class Solution:        
+class Solution1:        
     # The first corrent version I have written "fast" but dirty.
-    def numIslands_dfs_visited_ugly(self, grid):
+    def numIslands(self, grid):
         if not grid: return 0
         n, m = len(grid), len(grid[0])
         visited = set()
@@ -22,7 +22,8 @@ class Solution:
         # The judge statement is a must becasue as long as dfs called, it returns 1.
         return sum([dfs(i, j) for i in range(n) for j in range(m) if (i, j) not in visited and grid[i][j]=="1"])
 
-    def numIslands_dfs_visited_clean(self, grid):
+class Solution2:
+    def numIslands(self, grid):
         if not grid: return 0
         n, m = len(grid), len(grid[0])
         visited = set()
@@ -37,9 +38,10 @@ class Solution:
             return 0
         
         return sum([dfs(i, j) for i in range(n) for j in range(m)])
-    
+
+class Solution3:
     # Modified from Stefan Pochmann, changing the grid is not good but "map" make the codes lean.
-    def numIslands_dfs_floodfill(self, gird):
+    def numIslands(self, gird):
         if not grid: return 0
 
         n, m = len(grid), len(grid[0])
@@ -58,6 +60,6 @@ if __name__ == "__main__":
     # Test Case
     grid = [["1","1","1","1","0"],["1","1","0","1","0"],["1","1","0","0","0"],["0","0","0","0","0"]]
 
-    sol = Solution()
-    print(sol.numIslands_dfs_visited_ugly(grid))
+    sol = Solution1()
+    print(sol.numIslands(grid))
     

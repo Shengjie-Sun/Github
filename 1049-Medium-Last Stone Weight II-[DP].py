@@ -1,6 +1,6 @@
-class Solution:
+class Solution1:
     # 这个是只能相邻的石头相互碰撞
-    def lastStoneWeightII_neighbor(self, stones):
+    def lastStoneWeightII(self, stones):
         N = len(stones)
         # states = [[0]*N]*N This is totally wrong!
         states = [[0]*N for _ in range(N)]
@@ -13,6 +13,7 @@ class Solution:
                     states[i][j] = min(abs(states[i][k]-states[k+1][j]) for k in range(i, j))
         return states
 
+class Solution2:
     def lastStoneWeightII(self, stones):
         '''
         Think of the final answer as a sum of weights with + or - sign symbols infront of each weight. 
@@ -34,7 +35,7 @@ class Solution:
 
 if __name__ == "__main__":
     stones = [6,6,3,6,3,2,5,1]
-    sol = Solution()
+    sol = Solution1()
     states = sol.lastStoneWeightII(stones)
     for line in states:
         print(" ".join(format(state, '3') for state in line))

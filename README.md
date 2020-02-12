@@ -50,3 +50,8 @@
 
   database-608-Medium-Tree Node-[CASE]
 
+- February 12, 2020
+
+  algorithms-2-Medium-Add Two Numbers-[Linked List Math]
+
+  algorithms-5-Medium-Longest Palindromic Substring-[DP String]

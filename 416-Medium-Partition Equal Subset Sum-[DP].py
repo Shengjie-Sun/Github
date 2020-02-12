@@ -1,5 +1,5 @@
-class Solution:
-    def canPartition_dp_2d(self, nums):
+class Solution1:
+    def canPartition(self, nums):
         if sum(nums) % 2 == 1:
             return False
         else:
@@ -15,7 +15,8 @@ class Solution:
                     states[i][j] = 1
         return states
 
-    def canPartition_dp_1d(self, nums):
+class Solution2:
+    def canPartition(self, nums):
         if sum(nums) & 1 == 1:
             return False
         else:
@@ -33,6 +34,6 @@ if __name__ == "__main__":
     # Test Case
     nums = [2, 2, 3, 5]
 
-    sol = Solution()
-    states = sol.canPartition_dp_2d(nums)
+    sol = Solution1()
+    states = sol.canPartition(nums)
     print(states)

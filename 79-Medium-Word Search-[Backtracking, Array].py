@@ -1,6 +1,6 @@
 import copy
 
-class Solution:
+class Solution1:
     def __init__(self):
         self.EXIST = False
 
@@ -34,7 +34,7 @@ class Solution:
                         move(i, j, word, BOARD)
         return self.EXIST
 
-class SOLUTION:
+class Solution2:
     def exist(self, board, word):
         V = [1, 0, -1, 0]
         H = [0, -1, 0, 1]
@@ -74,5 +74,5 @@ if __name__ == "__main__":
     board = [['A','B','C','E'],['S','F','C','S'],['A','D','E','E']]
     word = "ABCCED"
 
-    sol = SOLUTION()
+    sol = Solution1()
     print(sol.exist(board, word))
