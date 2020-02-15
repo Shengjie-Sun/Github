@@ -55,3 +55,41 @@
   algorithms-2-Medium-Add Two Numbers-[Linked List Math]
 
   algorithms-5-Medium-Longest Palindromic Substring-[DP String]
+
+- February 13, 2020
+
+  algorithms-21-Easy-Merge Two Sorted Lists-[Linked List]
+
+  algorithms-202-Easy-Happy Number-[Hash Math]
+
+  algorithms-238-Medium-Product of Array Except Self-[Array]
+
+  **algorithms-3-Medium-Longest Substring Without Repeating Characters-[TP SW Hash String]**
+
+- February 14, 2020
+
+  database-602-Medium-Friend Requests II Who Has the Most Friends-[UNION]
+
+  database-1241-Easy-Number of Comments per Post
+
+  database-1204-Medium-Last Person to Fit in the Elevator-[WINDOW JOIN]
+
+  database-597-Easy-Friend Requests I Overall Acceptance Rate
+
+  database-610-Easy-Triangle Judgement
+
+  database-614-Medium-Second Degree Follower
+
+  database-1609-Easy-Product Sales Analysis II
+
+- February 15, 2020
+  
+  database-574-Medium-Winning Candidate
+
+  database-1084-Easy-Sales Analysis III
+
+  database-1070-Medium-Product Sales Analysis III-[GROUP BY]
+
+  database-584-Easy-Find Customer Referee
+  
+  database-1173-Easy-Immediate Food Delivery I
