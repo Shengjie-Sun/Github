@@ -93,3 +93,15 @@
   database-584-Easy-Find Customer Referee
   
   database-1173-Easy-Immediate Food Delivery I
+
+  algorithms-56-Medium-Merge Intervals-[Sort Array]
+
+  algorithms-33-Medium-Search in Rotated Sorted Array-[BS Array]
+
+  algorithms-937-Easy-Reorder Data in Log Files-[String]
+
+  algorithms-253-Medium-Meeting Rooms II-[Heap Greedy Sort]
+
+- February 17, 2020
+
+  database-1341-Medium-Movie Rating
