@@ -107,3 +107,19 @@
   database-1341-Medium-Movie Rating
 
   **database-618-Hard-Students Report By Geography-[WITH]**
+
+  algorithms-994-Easy-Rotting Oranges-[BFS]
+
+- February 19, 2020
+
+  algorithms-104-Easy-Maximum Depth of Binary Tree-[Tree DFS]
+
+  algorithms-226-Easy-Invert Binary Tree-[Tree]
+
+  algorithms-617-Easy-Merge Two Binary Trees-[Tree]
+
+  algorithms-108-Easy-Convert Sorted Array to Binary Search Tree-[Tree DFS]
+
+  algorithms-100-Easy-Same Tree-[Tree DFS]
+
+  algorithms-110-Easy-Balanced Binary Tree-[Tree DFS]
