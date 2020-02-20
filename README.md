@@ -123,3 +123,13 @@
   algorithms-100-Easy-Same Tree-[Tree DFS]
 
   algorithms-110-Easy-Balanced Binary Tree-[Tree DFS]
+
+- February 20, 2020
+
+  algorithms-994-Easy-Rotting Oranges-[BFS]
+
+  **algorithms-973-Medium-K Closest Points to Origin-[Divide and Conquer Heap Sort]**
+
+  **algorithms-560-Medium-Subarray Sum Equals K-[Array HT]**
+
+  algorithms-54-Medium-Spiral Matrix-[Array]

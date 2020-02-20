@@ -1,25 +1,32 @@
+import collections
 class Solution:
     def orangesRotting(self, grid) -> int:
-        if not grid:
-            return 0
-        N = len(grid)
+        R, C = len(grid), len(grid[0])
         
-        starts = set()
-        fresh = set()
+        queue = collections.deque()
+        for r, row in enumerate(grid):
+            for c, val in enumerate(row):
+                if val == 2:
+                    queue.append((r, c, 0))
         
-        H = [1, -1, 0, 0]
-        V = [0, 0, 1, -1]
+        # 好方法！
+        def neighbours(r, c):
+            for nr, nc in ((r-1, c), (r, c-1), (r+1, c), (r, c+1)):
+                if 0 <= nr < R and 0 <= nc < C:
+                    yield (nr, nc)
+                    
+        depth = 0
+        while queue:
+            r, c, depth = queue.popleft()
+            for nr, nc in neighbours(r, c):
+                if grid[nr][nc] == 1:
+                    grid[nr][nc] = 2
+                    queue.append((nr, nc, depth+1))
         
-        for i in range(N):
-            for j in range(N):
-                if grid[i][j] == 2:
-                    starts.add((i, j))
-                elif grid[i][j] == 1:
-                    fresh.add((i, j))
+        if any(1 in row for row in grid):
+            return -1
         
-        print(starts)
-        print(fresh)
-        # while fresh:
+        return depth
 
 if __name__ == "__main__":
     # Test Case
