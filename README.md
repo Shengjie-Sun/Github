@@ -149,3 +149,15 @@
   database-580-Medium-Count Student Number in Departments
 
   database-1132-Medium-Reported Posts II
+
+  database-1174-Medium-Immediate Food Delivery II
+
+  database-1270-Medium-All People Report to the Given Manager
+
+  database-1126-Medium-Active Businesses
+
+  database-1148-Easy-Article Views I
+
+  database-1350-Easy-Students With Invalid Departments
+
+  database-569-Hard-Median Employee Salary
