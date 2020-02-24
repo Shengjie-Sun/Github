@@ -133,3 +133,19 @@
   **algorithms-560-Medium-Subarray Sum Equals K-[Array HT]**
 
   algorithms-54-Medium-Spiral Matrix-[Array]
+
+- February 24, 2020
+  
+  **database-579-Hard-Find Cumulative Salary of an Employee**
+
+  database-603-Easy-Consecutive Available Seats
+
+  database-1112-Medium-Highest Grade For Each Student
+
+  database-534-Medium-Game Play Analysis III
+
+  database-1158-Medium-Market Analysis I
+
+  database-580-Medium-Count Student Number in Departments
+
+  database-1132-Medium-Reported Posts II
