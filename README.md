@@ -161,3 +161,23 @@
   database-1350-Easy-Students With Invalid Departments
 
   database-569-Hard-Median Employee Salary
+
+- February 26, 2020
+
+  database-511-Easy-Game Play Analysis I
+
+  database-1068-Easy-Product Sales Analysis I
+
+  database-1303-Easy-Find the Team Size
+
+  database-1251-Easy-Average Selling Price
+
+  database-613-Easy-Shortest Distance in a Line
+
+  database-1082-Easy-Sales Analysis I
+
+  database-1050-Easy-Actors and Directors Who Cooperated At Least Three Times
+
+  database-1327-Easy-List the Products Ordered in a Period
+
+  database-578-Medium-Get Highest Answer Rate Question
