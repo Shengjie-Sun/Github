@@ -195,4 +195,8 @@
   database-1075-Easy-Project Employees I
 
   database-577-Easy-Employee Bonus
+
+  database-1308-Medium-Running Total for Different Genders
+
+  database-1364-Medium-Number of Trusted Contacts of a Customer
   
