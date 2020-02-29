@@ -181,3 +181,18 @@
   database-1327-Easy-List the Products Ordered in a Period
 
   database-578-Medium-Get Highest Answer Rate Question
+
+- February 29, 2020
+  
+  database-586-Easy-Customer Placing the Largest Number of Orders
+
+  database-1280-Easy-Students and Examinations
+
+  database-1211-Easy-Queries Quality and Percentage
+
+  database-1294-Easy-Weather Type in Each Country
+
+  database-1075-Easy-Project Employees I
+
+  database-577-Easy-Employee Bonus
+  
