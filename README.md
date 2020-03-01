@@ -199,4 +199,10 @@
   database-1308-Medium-Running Total for Different Genders
 
   database-1364-Medium-Number of Trusted Contacts of a Customer
+
+- March 1, 2020
+
+  algorithms-953-Easy-Verifying an Alien Dictionary-[HT]
+
+  algorithms-1181-Medium-Before and After Puzzle-[String]
   
