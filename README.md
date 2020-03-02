@@ -205,4 +205,10 @@
   algorithms-953-Easy-Verifying an Alien Dictionary-[HT]
 
   algorithms-1181-Medium-Before and After Puzzle-[String]
+
+- March 2, 2020
+
+  algorithms-127-Medium-Word Ladder-[BFS]
+
+  algorithms-394-Medium-Decode String
   
