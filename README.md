@@ -211,4 +211,14 @@
   algorithms-127-Medium-Word Ladder-[BFS]
 
   algorithms-394-Medium-Decode String
+
+- March 3, 2020
+
+  algorithms-76-Hard-Minimum Window Substring
+
+  algorithms-735-Medium-Asteroid Collision
+
+  algorithms-347-Medium-Top K Frequent Elements-[Heap HT]
+
+  algorithms-48-Medium-Rotate Image-[Array]
   
