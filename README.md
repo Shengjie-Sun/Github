@@ -221,4 +221,21 @@
   algorithms-347-Medium-Top K Frequent Elements-[Heap HT]
 
   algorithms-48-Medium-Rotate Image-[Array]
+
+- March 4, 2020
+
+  database-1076-Easy-Project Employees II
   
+  database-619-Easy-Biggest Single Number
+
+  database-512-Easy-Game Play Analysis II
+
+  database-607-Easy-Sales Person
+
+  database-1141-Easy-User Activity for the Past 30 Days I
+
+  database-1083-Easy-Sales Analysis II
+
+  database-1322-Easy-Ads Performance
+
+  database-1113-Easy-Reported Posts
