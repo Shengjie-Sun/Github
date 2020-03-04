@@ -239,3 +239,11 @@
   database-1322-Easy-Ads Performance
 
   database-1113-Easy-Reported Posts
+
+  algorithms-94-Medium-Binary Tree Inorder Traversal-[Stack Tree HT]
+
+  algorithms-98-Medium-Validate Binary Search Tree
+
+  algorithms-144-Medium-Binary Tree Preorder Traversal
+
+  algorithms-105-Medium-Construct Binary Tree from Preorder and Inorder Traversal
