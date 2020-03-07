@@ -266,3 +266,9 @@
 
   algorithms-997-Easy-Find the Town Judge-[Graph]
 
+  algorithms-1109-Medium-Corporate Flight Bookings-[Array Math]
+
+  algorithms-679-Hard-24 Game-[DFS]
+
+  database-1077-Medium-Project Employees III
+
