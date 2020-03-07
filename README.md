@@ -251,3 +251,18 @@
 - March 5, 2020
 
   database-550-Medium-Game Play Analysis IV
+
+- March 6, 2020
+
+  database-1193-Medium-Monthly Transactions I
+
+  database-1205-Medium-Monthly Transactions II-[UNION]
+
+- March 7, 2020
+
+  algorithms-820-Medium-Short Encoding of Words-[Trie]
+
+  algorithms-387-Easy-First Unique Character in a String
+
+  algorithms-997-Easy-Find the Town Judge-[Graph]
+

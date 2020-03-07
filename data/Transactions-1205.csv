@@ -1,0 +1,6 @@
+,id,country,state,amount,trans_date
+0,101,US,approved,1000,2019-05-18
+1,102,US,declined,2000,2019-05-19
+2,103,US,approved,3000,2019-06-10
+3,104,US,declined,4000,2019-06-13
+4,105,US,approved,5000,2019-06-15
