@@ -272,3 +272,43 @@
 
   database-1077-Medium-Project Employees III
 
+- March 8, 2020
+
+  algorithms-225-Easy-Implement Stack using Queues-[Stack Design]
+
+  algorithms-322-Medium-Coin Change-[DP]
+
+- March 9, 2020
+
+  algorithms-121-Easy-Best Time to Buy and Sell Stock-[Array DP]
+
+  algorithms-122-Easy-Best Time to Buy and Sell Stock II-[Array Greedy]
+
+  algorithms-123-Hard-Best Time to Buy and Sell Stock III
+
+  algorithms-714-Medium-Best Time to Buy and Sell Stock with Transaction Fee-[Array Greedy DP]
+
+- March 10, 2020
+
+  algorithms-543-Easy-Diameter of Binary Tree-[Tree]
+
+- March 11, 2020
+
+  algorithms-1013-Easy-Partition Array Into Three Parts With Equal Sum-[Array]
+
+  algorithms-206-Easy-Reverse Linked List-[LL]
+
+  algorithms-1103-Easy-Distribute Candies to People-[Math]
+
+- March 12, 2020
+
+  algorithms-1071-Easy-Greatest Common Divisor of Strings-[String]
+
+  algorithms-107-Easy-Binary Tree Level Order Traversal II
+
+- March 13, 2020
+
+  algorithms-101-Easy-Symmetric Tree-[Tree DFS BFS]
+  
+
+
