@@ -6,7 +6,11 @@ SELECT MAX(Salary) AS SecondHighestSalary
        FROM Employee);
 
 # Solution 2 
-SELECT DISTINCT Salary AS SecondHighestSalary
-  FROM Employee
- ORDER BY Salary DESC
- LIMIT 1 OFFSET 1;
+# FROM - SELECT - ORDER - LIMIT
+SELECT (
+  SELECT DISTINCT Salary
+         FROM Employee
+         ORDER BY Salary DESC
+         LIMIT 1 OFFSET 1
+        ) AS SecondHighestSalary;
+
